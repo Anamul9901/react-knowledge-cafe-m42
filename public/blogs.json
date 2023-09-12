@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/grx7sV2/1.jpg",
+      "title": "The Secret Garden",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/HddjNKY/boy2.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": 45,
+      "hashtag": ["fiction", "gardening"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/PrszWW4/2.png",
+      "title": "Mysteries of the Universe",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/CW1zhzJ/girl1.jpg",
+      "posted_date": "2023-09-11",
+      "reading_time": 30,
+      "hashtag": ["science", "space"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/BcqNWB1/3.png",
+      "title": "Cooking Adventures",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/Jpnk6Vm/girl2.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": 60,
+      "hashtag": ["cooking", "recipes"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/2sP22m3/4.jpg",
+      "title": "Tech Trends 2023",
+      "author": "Michael Johnson",
+      "author_img": "https://i.ibb.co/ZYMWd9n/boy1.png",
+      "posted_date": "2023-09-09",
+      "reading_time": 15,
+      "hashtag": ["technology", "trends"]
+    }
+  ]
